@@ -1,6 +1,6 @@
 module example
 
-go 1.23.3
+go 1.22
 
 require (
 	connectrpc.com/connect v1.17.0 // indirect
